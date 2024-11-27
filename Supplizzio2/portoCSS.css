@@ -1,0 +1,68 @@
+.descrizione{
+
+   background-color:pink;
+	padding-down: 160px;
+}
+.mazzoAcquaSX{
+
+   background-color: aqua;
+	float: left;
+	width: 40%;
+	padding: 5%
+}
+.mazzoAcquaDX{
+
+   background-color: aqua;
+	float: right;
+	width: 40%;
+	padding: 5%
+}
+
+.mazzoFuoco{
+
+   background-color:orange;
+
+}
+a{
+
+  padding: 10px;
+
+}
+.menu{
+
+text-align: center;
+   background-color: GhostWhite;
+padding: 15px;
+}
+
+.titolol{
+    
+	font-size: 60px; 
+	font-family: tahoma;
+    padding: 0px;
+    text-align: center;
+
+}
+
+body{
+
+   background-color: cornflowerblue;
+
+
+}
+
+.testo{
+
+float:center;
+padding: 160px;
+   font-size: 25px;
+   padding-top:80px;
+
+}
+
+.imagine{
+
+float: left;
+padding-left:100px;
+padding-right:30px;
+}
